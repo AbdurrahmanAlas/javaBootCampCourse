@@ -6,8 +6,9 @@ public class C01_constructor {
     public static void main(String[] args) {
 
         // Scanner class'indaki method ve variable'lari(ozellikleri) kullanmak icin scan objesi olustururuz
-        Scanner scan      =            new                        Scanner(System.in);
-        //  class adi    obje ismi     obje olusturmak icin keyword         Scanner Constructor'i
+
+        Scanner                scan      =                 new                       Scanner(System.in);
+        //  class adi       obje ismi            obje olusturmak icin keyword       Scanner Constructor'i
 
         scan.nextInt();
 
@@ -21,7 +22,12 @@ public class C01_constructor {
 
     }
 
+    //java da obje oluşturulduğunda alacağı ilk
+    // degerlerin ne olacağını constructor lar ile düzenleriz
+
     public static void C01_constructor(){
+
+
         // method isimleri kucuk harfle baslar
         // class ismi ile ayni isimde olmamasi tercih edilir
         // return type var bu method'dur, constructor olamaz

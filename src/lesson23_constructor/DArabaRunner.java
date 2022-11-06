@@ -27,6 +27,12 @@ public class DArabaRunner {
         System.out.println(arb1.fiyat); // 50000
         System.out.println(arb1.maxHiz(arb1.yakit));
 
+
+        //DEFAULT CONSTRUCTUR PARAMETRESİZDİR VE
+        // BODDY SİNDE HİÇBİR KOD OLMAYAN CONSTRUCTORDİR
+        //AMA GORÜNMEZ.
+
+
         DAraba arb2=new DAraba();
 
         // arb2'nin ozelliklerini yazdirmak istesek
@@ -36,6 +42,9 @@ public class DArabaRunner {
                 "\nYakit : " + arb2.yakit+
                 "\nYil : " + arb2.yil+
                 "\nFiyat : " + arb2.fiyat);
+
+
+
         DAraba arb3=new DAraba();
 
         System.out.println(arb3);

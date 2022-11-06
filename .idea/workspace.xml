@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb907c70-0e9d-459e-a232-d21ac436f8d6" name="Changes" comment="" />
+    <list default="true" id="cb907c70-0e9d-459e-a232-d21ac436f8d6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson23_constructor/C01_constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson23_constructor/C01_constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson23_constructor/DAraba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson23_constructor/DAraba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson23_constructor/DArabaRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson23_constructor/DArabaRunner.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,13 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.SArabaRunner">
     <configuration name="C01_HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson01_ProgramlamayaGiris.C01_HelloWorld" />
       <module name="Java_Tum_Konular" />
@@ -49,8 +54,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DArabaRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson23_constructor.DArabaRunner" />
+      <module name="Java_Tum_Konular" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson23_constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SArabaRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson23_constructor.SArabaRunner" />
+      <module name="Java_Tum_Konular" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson23_constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SArabaRunner" />
+        <item itemvalue="Application.DArabaRunner" />
         <item itemvalue="Application.C01_HelloWorld" />
       </list>
     </recent_temporary>
