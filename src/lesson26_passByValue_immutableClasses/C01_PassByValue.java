@@ -17,12 +17,14 @@ public class C01_PassByValue {
 
     }
     /*
-    Kodlarimizin anlasi;ir olmasi icin main method'dan diger method'lara
+    Kodlarimizin anlasiLir olmasi icin main method'dan diger method'lara
     parametre olarak gonderdigimiz variable'lar icin ayni isimli variable
     olusturmayi TERCIH EDERIZ
-    Java method'lar arasinda gecis yaparken variable'i degil
+
+   * Java method'lar arasinda gecis yaparken variable'i degil
     variable'in value'sunu pass eder
-    Bu Java'nin Pass By Value'yu tercih etmesinden kaynaklaniyor
+
+   * Bu Java'nin Pass By Value'yu tercih etmesinden kaynaklaniyor
     Eger method'un icerisinde yaptiginiz degisikligin
     main method icin de gecerli olmasini isterseniz
     main method icerisinde

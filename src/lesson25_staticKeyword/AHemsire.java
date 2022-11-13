@@ -2,8 +2,8 @@ package lesson25_staticKeyword;
 
 public class AHemsire {
 
-    static String hastaneIsmi="Yildiz Hastanesi";
-    static String hastaneAdresi="Cankaya / Ankara";
+    static String hastaneIsmi="Sistem Hastanesi";
+    static String hastaneAdresi="Kocasinan / Kayseri";
     static String bashekimIsmi="Dr Mehmet Yilmaz";
 
     String personelIsim="Isim belirtilmedi";
@@ -15,9 +15,9 @@ public class AHemsire {
                 "personelIsim='" + personelIsim + '\'' +
                 ", personelAdresi='" + personelAdresi + '\'' +
                 ", personelTelefon='" + personelTelefon + '\'' +
-                ", \nhastaneIsmi='" + hastaneIsmi + '\'' +
-                ", hastaneAdresi='" + hastaneAdresi + '\'' +
-                ", bashekimIsmi='" + bashekimIsmi + '\'' +
+                ", \n hastaneIsmi='" + hastaneIsmi + '\'' +
+                ",  hastaneAdresi='" + hastaneAdresi + '\'' +
+                ",  bashekimIsmi='" + bashekimIsmi + '\'' +
                 '}';
     }
 
