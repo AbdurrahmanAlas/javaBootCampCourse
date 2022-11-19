@@ -13,8 +13,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="AnnotationType" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -38,26 +38,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CSuv">
+  <component name="RunManager" selected="Application.Corolla">
     <configuration name="C01_DateTimeFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson29_DateTimeFormatter.C01_DateTimeFormatter" />
       <module name="Java_Tum_Konular" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lesson29_DateTimeFormatter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_Varargs2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson28_varargs_StringBuilder.C02_Varargs2" />
-      <module name="Java_Tum_Konular" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson28_varargs_StringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,19 +65,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson28_varargs_StringBuilder.C04_StringBuilder" />
-      <module name="Java_Tum_Konular" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson28_varargs_StringBuilder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CSuv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson_31inheritance.CSuv" />
       <module name="Java_Tum_Konular" />
@@ -104,13 +78,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Corolla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson32_InheritanceConstructor.Corolla" />
+      <module name="Java_Tum_Konular" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson32_InheritanceConstructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GCorolla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_31inheritance.GCorolla" />
+      <module name="Java_Tum_Konular" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_31inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Corolla" />
+        <item itemvalue="Application.GCorolla" />
         <item itemvalue="Application.CSuv" />
         <item itemvalue="Application.C03_Encapsulations" />
         <item itemvalue="Application.C01_DateTimeFormatter" />
-        <item itemvalue="Application.C04_StringBuilder" />
-        <item itemvalue="Application.C02_Varargs2" />
       </list>
     </recent_temporary>
   </component>
