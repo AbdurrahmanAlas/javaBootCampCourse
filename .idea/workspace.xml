@@ -12,8 +12,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="AnnotationType" />
         <option value="Enum" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -38,26 +38,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C01_DateTimeFormatter">
+  <component name="RunManager" selected="Application.CSuv">
     <configuration name="C01_DateTimeFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson29_DateTimeFormatter.C01_DateTimeFormatter" />
       <module name="Java_Tum_Konular" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lesson29_DateTimeFormatter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01_Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson28_varargs_StringBuilder.C01_Varargs" />
-      <module name="Java_Tum_Konular" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson28_varargs_StringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,6 +65,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C03_Encapsulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_Encapsulation.C03_Encapsulations" />
+      <module name="Java_Tum_Konular" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_Encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C04_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson28_varargs_StringBuilder.C04_StringBuilder" />
       <module name="Java_Tum_Konular" />
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_PeriodOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson27_immutableClassess_DateandTime.C07_PeriodOf" />
+    <configuration name="CSuv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_31inheritance.CSuv" />
       <module name="Java_Tum_Konular" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson27_immutableClassess_DateandTime.*" />
+          <option name="PATTERN" value="lesson_31inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CSuv" />
+        <item itemvalue="Application.C03_Encapsulations" />
         <item itemvalue="Application.C01_DateTimeFormatter" />
         <item itemvalue="Application.C04_StringBuilder" />
         <item itemvalue="Application.C02_Varargs2" />
-        <item itemvalue="Application.C01_Varargs" />
-        <item itemvalue="Application.C07_PeriodOf" />
       </list>
     </recent_temporary>
   </component>
