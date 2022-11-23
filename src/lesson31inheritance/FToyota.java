@@ -1,6 +1,4 @@
-package lesson_31inheritance;
-
-import lesson23_constructor.DAraba;
+package lesson31inheritance;
 
 public class FToyota extends EAraba{
 

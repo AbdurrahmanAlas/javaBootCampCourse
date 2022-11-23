@@ -1,4 +1,4 @@
-package lesson_31inheritance;
+package lesson31inheritance;
 
 public class CSuv extends BinekArac{
 

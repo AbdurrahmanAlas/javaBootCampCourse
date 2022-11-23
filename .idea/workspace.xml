@@ -3,6 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="cb907c70-0e9d-459e-a232-d21ac436f8d6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson31inheritance/Arac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson31inheritance/Arac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson31inheritance/BinekArac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson31inheritance/BinekArac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson31inheritance/CSuv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson31inheritance/CSuv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson31inheritance/DOtomobil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson31inheritance/DOtomobil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson31inheritance/EAraba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson31inheritance/EAraba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson31inheritance/FToyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson31inheritance/FToyota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson31inheritance/GCorolla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson31inheritance/GCorolla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson31inheritance/inheritanceNOTLAR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson31inheritance/inheritanceNOTLAR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32_InheritanceConstructor/Corolla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson32_InheritanceConstructor/Corolla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson32_InheritanceConstructor/DCamry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson32_InheritanceConstructor/DCamry.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +23,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -32,12 +42,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/java_kodlar/Java_Tum_Konular"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Corolla">
     <configuration name="C01_DateTimeFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson29_DateTimeFormatter.C01_DateTimeFormatter" />
@@ -66,11 +77,11 @@
       </method>
     </configuration>
     <configuration name="CSuv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_31inheritance.CSuv" />
+      <option name="MAIN_CLASS_NAME" value="lesson31inheritance.CSuv" />
       <module name="Java_Tum_Konular" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_31inheritance.*" />
+          <option name="PATTERN" value="lesson31inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,11 +103,11 @@
       </method>
     </configuration>
     <configuration name="GCorolla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_31inheritance.GCorolla" />
+      <option name="MAIN_CLASS_NAME" value="lesson31inheritance.GCorolla" />
       <module name="Java_Tum_Konular" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson_31inheritance.*" />
+          <option name="PATTERN" value="lesson31inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,8 +118,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Corolla" />
-        <item itemvalue="Application.GCorolla" />
-        <item itemvalue="Application.CSuv" />
         <item itemvalue="Application.C03_Encapsulations" />
         <item itemvalue="Application.C01_DateTimeFormatter" />
       </list>

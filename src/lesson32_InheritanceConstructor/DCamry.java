@@ -18,13 +18,6 @@ public class DCamry extends  BToyota{
     public static void main(String[] args) {
         DCamry camry2=new DCamry("senem");
 
-
-
-
-
-
-
-
         //Eger kullanılan argumente uygun bir
         //constructor parent classda yoksa CTE olur
 
